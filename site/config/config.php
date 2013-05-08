@@ -21,7 +21,7 @@ http://getkirby.com/license
 
 */
 
-c::set('license', 'your license key');
+c::set('license', '5');
 
 
 /* 
@@ -158,7 +158,7 @@ or markdown extra: http://michelf.com/projects/php-markdown/extra/
 
 c::set('markdown', true);
 c::set('markdown.breaks', true);
-c::set('markdown.extra', false);
+c::set('markdown.extra', true);
 
 
 /* 
@@ -181,7 +181,7 @@ texts which are parsed by kirbytext()
 */
 
 // smartypants
-c::set('smartypants', false);
+c::set('smartypants', true);
 c::set('smartypants.attr', 1);
 c::set('smartypants.doublequote.open', '&#8220;');
 c::set('smartypants.doublequote.close', '&#8221;');
@@ -368,8 +368,6 @@ attached. So you can easily overwrite your global
 custom config by specific rules for that host. 
 
 */
-
-
 /* 
 
 ---------------------------------------

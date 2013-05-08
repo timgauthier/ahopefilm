@@ -1,9 +1,75 @@
-Title: Kirby
+﻿Title: a [hope] film
+
 ----
-Author: Bastian Allgeier
+
+Author: a [hope] film
+
 ----
-Description: Kirby is awesome
+
+Description: A Film for Freedom
+
 ----
-Keywords: kirby, cms, kirbycms, php, filesystem
+
+Keywords: hopefilm, a hope film, film, missions, social justice, justice, bible, biblical, cinema, movies, youtube, vimeo
+
 ----
-Copyright: © 2009-(date: Year) (link: http://bastianallgeier.com text: Bastian Allgeier)
+
+Copyright: **All content is Copyright © 2012-(date: Year), all trademarks and logos belong to their respective owners and are used with permission.**
+
+----
+
+Colophon: **(link: colophon text:Colophon)**
+
+----
+
+Tech: **(link: technology text: Technology)**
+
+----
+
+V4Vinfo: <a href="http://avoiceforthevoiceless.com">(image: /assets/images/voiceless-logo-web-white.png)</a>
+
+----
+
+PhotogenXinfo: <a href="http://photogenx.net">(image: /assets/images/photogenx.png)</a>
+
+----
+
+YWAMinfo: <a href="http://ywam.org">(image: /assets/images/ywam-rc.png)</a>
+
+----
+
+GoogleURL: (link: https://plus.google.com/102371870859333875223/posts )
+
+----
+
+TwitterURL: (link: https://twitter.com/ahopefilm)
+
+----
+
+ahopetweet: <a href="https://twitter.com/share" class="twitter-share-button" data-related="ahopefilm" data-hashtags="ahopefilm">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+----
+
+FacebookURL: (link: https://www.facebook.com/ahopefilm)
+
+----
+
+FacebookLike: <div class="fb-like" data-href="http://ahopefilm.com" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+
+----
+
+TumblrPlus:<a href="http://www.tumblr.com/share/link?url=<?php echo urlencode(INSERT_URL_HERE) ?>&name=<?php echo urlencode(INSERT_NAME_HERE) ?>&description=<?php echo urlencode(INSERT_DESCRIPTION_HERE) ?>" title="Share on Tumblr" style="display:inline-block; text-indent:-9999px; overflow:hidden; width:81px; height:20px; background:url('http://platform.tumblr.com/v1/share_1.png') top left no-repeat transparent;">Share on Tumblr</a>
+
+----
+
+RedditThis: <a href="http://www.reddit.com/submit" onclick="window.location = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false"> <img src="http://www.reddit.com/static/spreddit7.gif" alt="submit to reddit" border="0" /> </a>
+
+----
+
+
+
+
+
+
+

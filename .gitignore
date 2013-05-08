@@ -2,3 +2,5 @@
 panel/
 site/panel
 docs
+.sass-cache
+*.scssc
