@@ -4,3 +4,4 @@ site/panel
 docs
 .sass-cache
 *.scssc
+content/*
