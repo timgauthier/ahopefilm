@@ -1,0 +1,14 @@
+﻿Title: Technology
+
+----
+
+Text: 
+<div class="large-8">
+
+<p>Our website uses (link: http://getkirby.com text: Kirby CMS Version 1.12 (1.1.2)) a flat file php based cms. We also use (link: http://foundation.zurb.com text: Foundation Framework 4 from Zurb) to style and manage our front end. We are using PHP 5.4.4 and running on Apache 2.2.22</p>
+
+<p>Our website was hand crafted in (link: https://github.com/textmate/textmate text:Textmate) using (link: http://compass-style.org text:Compass) on a 13-inch Mid 2012 MacBook Air.</p>
+
+<p>Our Camera is a (link:http://pro.jvc.com/prof/attributes/features.jsp?model_id=MDL102153 text:JVC GY-HM600 ProHD) with a (link:http://www.rodemic.com/mics/ntg-2 text:NTG-2 RØDE) condenser shotgun microphone. We also have a (link:http://www.bhphotovideo.com/c/product/733914-REG/Azden_310UDR_310UDR_UHF_On_Camera_Receiver.html text:Azden 310UDR Wireless Receiver) with Lavaliere microphone for interviews and wireless sound to the camera.</p>
+
+</div>
